@@ -5,12 +5,12 @@
 
 	<groupId>net.slipp</groupId>
 	<artifactId>my-slipp-terminal</artifactId>
-	<version>1.0</version>
+	<version>1.1</version>
 	<packaging>jar</packaging>
 
 	<name>my-slipp-terminal</name>
 	<description>Slipp QnA</description>
-
+ 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
